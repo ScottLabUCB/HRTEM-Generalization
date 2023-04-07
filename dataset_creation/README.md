@@ -3,5 +3,5 @@ The files in this folder provide code and examples for dataset creation, includi
 2. Converting raw camera images into datasets for machine learning, which includes code for pixel rescaling, image patch creation, and flat field correction
 
 If interested in using this data for your own research, please cite the following DOIs depending on data usage:
-1. If only using the raw camera images: (DOI HERE)
+1. If only using the raw camera images: please cite our upcoming manuscript (check back for link)
 2. If using the post-processed, curated datasets using our preprocessing: (DOI HERE)
