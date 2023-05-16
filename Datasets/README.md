@@ -1,1 +1,1 @@
-In this folder, we provide the processed datasets used in the training/testing example. All of the processed datasets are available (LINK HERE)
+Datasets can either be created via the code provided in the dataset_creation folder or downloaded (LINK HERE)
