@@ -1,1 +1,1 @@
-Here we provide all of the trained models from our manuscript and a model_details.csv file that describes what data each model was trained on.
+Here we provide all of the trained models from our manuscript and a model_details.csv file that describes what data each model was trained on, as well as the fold #, which indicates the portion of the dataset that was held out as the test set.
